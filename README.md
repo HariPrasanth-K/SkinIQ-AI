@@ -48,15 +48,17 @@ The project consists of three main components:
 
 ## Requirements
 
-numpy==1.26.4
-torch==2.2.2
-ultralytics==8.4.13
-mlflow==3.9.0
-scikit-learn==1.8.0
-optuna==4.7.0
-boto3==1.42.46
-sagemaker==3.4.1
-pycocotools==2.0.11
+The project depends on the following Python libraries:
+
+- numpy==1.26.4  
+- torch==2.2.2  
+- ultralytics==8.4.13  
+- mlflow==3.9.0  
+- scikit-learn==1.8.0  
+- optuna==4.7.0  
+- boto3==1.42.46  
+- sagemaker==3.4.1  
+- pycocotools==2.0.11  
 
 ---
 
